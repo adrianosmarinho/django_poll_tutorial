@@ -1,3 +1,3 @@
-#Django Tutorial Poll Site
+# Django Tutorial Poll Site
 
 TODO: Update the description
